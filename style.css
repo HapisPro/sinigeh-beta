@@ -373,6 +373,10 @@ footer {
     padding: 0 2rem;
   }
 
+  .overlay {
+    font-size: 1rem;
+  }
+  
   .galeri-container {
     grid-template-columns: 1fr 1fr;
     column-gap: 0.5rem;
